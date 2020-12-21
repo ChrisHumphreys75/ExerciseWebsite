@@ -1,2 +1,2 @@
-# TestWebsite
-Test Website
+# ExerciseWebsite
+Exercise Website
